@@ -2,3 +2,13 @@ Engineering thesis focused on creating a multiagentic workflow system in medical
 - generation of responses layer
 - explanation of responses layer that deploys 4 agents (with usage of medical LLM's and LLM's assisted by RAG)
 - evaluation layer that is based on health benchmarks created by openAI and manages 5 different evaluation agents
+
+
+Current changes
+Added better agent retrieval with the retry function
+In the process of choosing the best fitting response mathematically with embeddings
+
+Future changes
+- langchain migration
+- rewriting the file into the .py files
+  
